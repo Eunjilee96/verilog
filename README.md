@@ -7,7 +7,7 @@
 <br> 명령> brew install icarus-verilog
 
 <br>출저:https://gtrfx.github.io/2020/03/02/verilog-ide-on-mac.html
-윈도우즈만 가도 좋은 FPGA 툴들이 통합환경을 제공하고 있고 linux는 gui가 약간 아쉽지만 역시나 존재한다.
+<br>윈도우즈만 가도 좋은 FPGA 툴들이 통합환경을 제공하고 있고 linux는 gui가 약간 아쉽지만 역시나 존재한다.
 
 이 세상에 존재하는 가장 좋은 OS 환경에서 아쉽게도 logic 개발용 IDE가 없는데, 아쉽지만 eclipse에 verilog plugin을 붙여쓰는 방법도 있고 Microsoft visual code에 verilog 옵션들을 달아서 쓰면 된다.
 
